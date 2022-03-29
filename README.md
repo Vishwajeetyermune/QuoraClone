@@ -1,1 +1,1 @@
-# Quora Clone using React, Redux, Firebase
+# Quora Clone using React, Redux
